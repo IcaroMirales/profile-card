@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--cor-fundo-padrao);
+    font-family: "Kumbh Sans", sans-serif;
+    height: 100vh;
+    font-size: 18px;
+}
+
+ul {
+    list-style-type: none;
+}
